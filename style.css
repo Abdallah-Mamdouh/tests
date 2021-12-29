@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text&display=swap');
+
+
+body {
+    background-color: #CAD3C8;
+
+}
+
+.mainDiv {
+    font-family: arial;
+    font-size: 24px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.clickhere{
+    font-family: 'Markazi Text', serif;
+    font-weight: bold;
+    color: #000;
+    height: 50px;
+    width: 250px;
+    font-size: 30px;
+    margin: 10px;
+    outline:none;
+    direction: rtl;
+}
+
+ 
+.carrot {
+    border-color: #e67e22;
+    background-image: linear-gradient(45deg, #e67e22 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+.carrot:hover {
+    color: #fff;
+    transition: color 200ms ease-in-out;
+    background-position: 0;
+}
+
+.green {
+    border-color: #27ae60;
+    background-image: linear-gradient(45deg, #27ae60 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+.green:hover {
+    color: #fff;
+    transition: color 200ms ease-in-out;
+    background-position: 0;
+}
+
+.red {
+    border-color: #e74c3c;
+    background-image: linear-gradient(45deg, #e74c3c 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+.red:hover {
+    color: #fff;
+    transition: color 200ms ease-in-out;
+    background-position: 0;
+}
+
+.gray {
+    border-color: #95a5a6;
+    background-image: linear-gradient(45deg, #95a5a6 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+.gray:hover {
+    color: #fff;
+    transition: color 200ms ease-in-out;
+    background-position: 0;
+}
+
+.summerime {
+    border-color: #f5cd79;
+    background-image: linear-gradient(45deg, #f5cd79 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+.summerime:hover {
+    color: #fff;
+    transition: color 200ms ease-in-out;
+    background-position: 0;
+}
+
+.squeaky {
+    border-color: #63cdda;
+    background-image: linear-gradient(45deg, #63cdda 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+.squeaky:hover {
+    color: #fff;
+    transition: color 200ms ease-in-out;
+    background-position: 0;
+}
+
+p {
+    text-align: center;
+    border: 3px #B33771 dashed;
+    width: 300px;
+    height: 20px;
+    margin: auto;
+    padding: 5px;
+}
+h3{
+    font-family: 'Markazi Text', serif;
+    text-align: center;
+    border: 3px #B33771 dashed;
+    width: 250px;
+    height: 30px;
+    margin: auto;
+    padding:2px;
+}
+i {
+    color: #097DEB;
+}
+
+a {
+    color: #097DEB;
+    text-decoration: none   ;}
